@@ -36,7 +36,7 @@ point
   https://www.microsoft.com/net/download/thank-you/dotnet-runtime-2.1.4-windows-hosting-bundle-installer
 
 
-## Running unit and integration tests
+## Running
 
 * 1- Clone Repository into a folder
 
