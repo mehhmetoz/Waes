@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Waes.Api", "Waes.Api\Waes.Api.csproj", "{DAA66D64-467F-41E4-90D7-EFEA03F54F23}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Waes.Api.UnitTest", "Waes.Api.UnitTest\Waes.Api.UnitTest.csproj", "{3D91B74F-0B8E-4F8E-862D-C1C8DE4025C6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Waes.Api.IntegrationTest", "Waes.Api.IntegrationTest\Waes.Api.IntegrationTest.csproj", "{A795869A-9301-483E-9F9A-9CE34C3F9406}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Screenshots", "Screenshots", "{D8E39BB7-D97B-4FCF-BA91-1B96A92FE69C}"
+	ProjectSection(SolutionItems) = preProject
+		Screenshots\0.PNG = Screenshots\0.PNG
+		Screenshots\1.PNG = Screenshots\1.PNG
+		Screenshots\2.PNG = Screenshots\2.PNG
+		Screenshots\3.PNG = Screenshots\3.PNG
+		Screenshots\4.PNG = Screenshots\4.PNG
+		Screenshots\5.PNG = Screenshots\5.PNG
+		Screenshots\6.PNG = Screenshots\6.PNG
+		Screenshots\7.PNG = Screenshots\7.PNG
+		Screenshots\8.PNG = Screenshots\8.PNG
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DAA66D64-467F-41E4-90D7-EFEA03F54F23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAA66D64-467F-41E4-90D7-EFEA03F54F23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAA66D64-467F-41E4-90D7-EFEA03F54F23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAA66D64-467F-41E4-90D7-EFEA03F54F23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D91B74F-0B8E-4F8E-862D-C1C8DE4025C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D91B74F-0B8E-4F8E-862D-C1C8DE4025C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D91B74F-0B8E-4F8E-862D-C1C8DE4025C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D91B74F-0B8E-4F8E-862D-C1C8DE4025C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A795869A-9301-483E-9F9A-9CE34C3F9406}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A795869A-9301-483E-9F9A-9CE34C3F9406}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A795869A-9301-483E-9F9A-9CE34C3F9406}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A795869A-9301-483E-9F9A-9CE34C3F9406}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {06472625-3582-47A0-BE57-577FBF79B0A5}
+	EndGlobalSection
+EndGlobal

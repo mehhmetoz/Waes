@@ -1,0 +1,5 @@
+C:\Users\micro\source\repos\Waes.Api\Waes.Api
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=Waes.Api
+--content-root=C:\Users\micro\source\repos\Waes.Api\Waes.Api
+--file=C:\Users\micro\source\repos\Waes.Api\Waes.Api\Pages\Index.cshtml
